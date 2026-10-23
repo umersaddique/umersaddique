@@ -10,6 +10,7 @@ We design the PCB, write the firmware, ship the app and put the AI on top.
 [![Website](https://img.shields.io/badge/sixsol.co.uk-0E1621?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.sixsol.co.uk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engumer-saddique)
 [![Upwork](https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/digicomsolution)
+[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/Engumer480)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923435675480)
 
 </div>
